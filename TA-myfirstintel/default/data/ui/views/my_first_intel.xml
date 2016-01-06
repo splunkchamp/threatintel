@@ -1,0 +1,20 @@
+<!--<dashboard>-->
+
+<form refresh="1200" hideTitle="true" hideSplunkBar="false" hideFooter="true"> 
+  <label>About Writing Threat Intel Feeds</label>
+  <row>
+  <html>
+      <h1>Threat Intel</h1>
+      	<p><font face="Arial">
+The discipline of cyber threat intelligence focuses on providing actionable information on adversaries. This information is becoming increasingly important to enterprise cyber defense. This importance has resulted in investment and creation of many new/innovative sources of information on threat actors.
+</font></p>
+ 
+       <p>
+Check out this .conf presentation regarding threat intelligence:
+https://conf.splunk.com/session/2015/conf2015_BLuger_Splunk_SecurityCompliance_ManagedThreatIntelligenceIn.pdf
+</p>
+    
+    </html>
+  </row>
+</form>
+<!--</dashboard>-->
