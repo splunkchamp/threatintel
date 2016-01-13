@@ -13,7 +13,7 @@ The discipline of cyber threat intelligence focuses on providing actionable info
 This information is becoming increasingly important to enterprise cyber defense. 
 This importance has resulted in investment and creation of many new/innovative sources of information on threat actors
 
-In the context of using threat intelligence to augment security solutions, often the threat intel is boiled down into indictors of some sort; 
+In the context of using threat intelligence to augment security solutions, often the threat intel is boiled down into indicators of some sort; 
 domains, ip addresses, file and process hashes, certificates, etc.
 
 ##Getting Started
