@@ -2,7 +2,7 @@ import os
 from urllib2 import urlopen, URLError, HTTPError
 import json
 
-INTEL_URL = 'http://home.dishwishy.com/tofuIntel.json'
+INTEL_URL = 'https://s3-us-west-2.amazonaws.com/splk-kchamp/tofuintel.json'
 
 def dlfile(url):
     # Open the url
